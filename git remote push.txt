@@ -1,0 +1,4 @@
+git remote add github https://github.com/username/reponame.git
+git push github master
+
+source: http://guides.railsgirls.com/openshift/
